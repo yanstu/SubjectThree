@@ -2,9 +2,7 @@
   "name": "driving-lights-exam",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite --port 3000",
-    "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview"
+    "dev": "vite --port 3000"
   },
   "dependencies": {
     "pinia": "^3.0.1",
